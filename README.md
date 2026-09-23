@@ -7,8 +7,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/428ac241-dd78-4297-a90c-4863e8289ee3" />
-
+<img width="1918" height="991" alt="CAT ForeSight Copilot" src="./assets/foresight-copilot.png" />
 
 
 ---

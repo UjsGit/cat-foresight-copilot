@@ -1,0 +1,5 @@
+task_id,task_name,machine_type,target_tonnes,material_type,difficulty,site_zone,target_cycle_count,baseline_duration_minutes
+TASK-101,Load aggregate into haul trucks - Zone B,Excavator,350.0,Crushed Rock / Aggregate,1.2,Zone B (Quarry Face),28,35.0
+TASK-102,Trench excavation for drainage line,Excavator,180.0,Dense Clay / Gravel,1.4,Zone D (Perimeter Drainage),40,45.0
+TASK-103,Stockpile rehandling to crusher feed hopper,Wheel Loader,420.0,Sand & Fine Gravel,0.9,Zone A (Crusher Infeed),35,30.0
+TASK-104,Haul overburden to West Dump,Haul Truck,500.0,Overburden / Soft Rock,1.1,Haul Road 3 -> West Dump,12,50.0

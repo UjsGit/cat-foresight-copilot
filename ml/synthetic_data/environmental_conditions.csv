@@ -1,0 +1,6 @@
+env_id,weather,rainfall_mm,visibility_meters,wind_speed,risk_modifier
+ENV-01,Clear,0.0,2000.0,10.0,1.0
+ENV-02,Overcast,0.0,1200.0,18.0,1.1
+ENV-03,Rain,8.5,350.0,28.0,1.6
+ENV-04,Heavy Rain,16.0,120.0,42.0,2.2
+ENV-05,Fog,0.0,90.0,4.0,2.0

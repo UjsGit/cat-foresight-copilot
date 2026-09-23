@@ -1,0 +1,4 @@
+machine_id,model_name,machine_type,nominal_power_hp,operating_weight_tonnes,max_payload_tonnes,fuel_capacity_litres,current_hours,health_score,firmware_version
+CAT-EX-336,Cat 336 Hydraulic Excavator,Excavator,314,37.2,18.0,600.0,3412.5,92.0,v4.18.2
+CAT-WL-966,Cat 966M Medium Wheel Loader,Wheel Loader,307,23.2,14.0,380.0,1850.0,96.5,v4.19.0
+CAT-HT-745,Cat 745 Articulated Haul Truck,Haul Truck,504,33.4,41.0,550.0,5120.0,84.0,v4.16.5

@@ -1,0 +1,4 @@
+training_id,title,duration_minutes,category,recommended_reason,completed,score,assigned_to
+TRN-101,Safe Reversing & Blind Spot Awareness,6,Safety,Recommended after a high-risk rear proximity event.,False,,OP-001
+TRN-102,Efficient Idle Management,5,Efficiency,Recommended because idle time exceeded your typical range.,False,,OP-001
+TRN-103,Steep Slope & Incline Handling,8,Operation,Precautionary module for upcoming 14° excavation zone.,True,100.0,OP-001

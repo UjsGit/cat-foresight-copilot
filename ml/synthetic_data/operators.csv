@@ -1,0 +1,4 @@
+operator_id,name,experience_years,experience_level,shift_preference,avg_cycle_time_sec,efficiency_rating,safety_score,avatar
+OP-001,Priya Raman,2.0,intermediate,Day,42.0,88.5,94.0,/avatars/priya.png
+OP-002,Arjun Kumar,8.5,expert,Day,36.0,95.0,98.2,/avatars/arjun.png
+OP-003,Rahul Das,0.35,novice,Night,52.0,76.0,86.5,/avatars/rahul.png

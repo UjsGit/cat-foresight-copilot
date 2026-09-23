@@ -1,0 +1,77 @@
+[
+  {
+    "id": "TRN-101",
+    "title": "Safe Reversing & Blind Spot Awareness",
+    "category": "Safety",
+    "duration_minutes": 6,
+    "icon": "ShieldAlert",
+    "description": "Learn defensive reversing procedures, blind zone clearance management, and high-visibility spotter protocols when pedestrians are in quarry loading areas.",
+    "trigger_reason": "Recommended after a high-risk rear proximity event.",
+    "key_takeaways": [
+      "Always sound two horn blasts prior to reversing in low visibility conditions.",
+      "Maintain a 7-meter dynamic exclusion perimeter behind active machines.",
+      "Bring machine to complete stop before attempting camera or mirror verification."
+    ],
+    "quiz": {
+      "question": "When reversing in wet conditions with visibility below 200m, what is the mandatory immediate action when a proximity alert sounds?",
+      "options": [
+        "Accelerate past the hazard area quickly to clear the lane.",
+        "Stop machine safely, engage neutral lock, and verify the rear zone before proceeding.",
+        "Mute the alert and continue at 10 km/h.",
+        "Sound continuous horn while continuing to reverse."
+      ],
+      "correct_index": 1,
+      "explanation": "Immediately stopping the machine eliminates kinetic risk and allows safe visual confirmation of blind spot clearance."
+    }
+  },
+  {
+    "id": "TRN-102",
+    "title": "Efficient Idle Management",
+    "category": "Efficiency",
+    "duration_minutes": 5,
+    "icon": "Gauge",
+    "description": "Techniques for minimizing unnecessary engine idling during haul truck staging delays to cut diesel emissions and avoid DPF filter soot loading.",
+    "trigger_reason": "Recommended because idle time exceeded your typical range.",
+    "key_takeaways": [
+      "Engage auto-idle mode (800 RPM) if wait time exceeds 3 minutes.",
+      "Shut down engine if wait time exceeds 6 minutes.",
+      "Avoid high-idle power mode when waiting for truck positioning."
+    ],
+    "quiz": {
+      "question": "What is the recommended protocol if you are waiting for a haul truck for longer than 3 minutes?",
+      "options": [
+        "Keep engine revving at 2000 RPM to stay warm.",
+        "Throttle down to low idle (800 RPM) or engage auto-idle feature.",
+        "Turn off cab air conditioning only.",
+        "Begin dry digging without a haul truck."
+      ],
+      "correct_index": 1,
+      "explanation": "Switching to low idle saves up to 4 litres of diesel per hour and protects emission filters from particulate build-up."
+    }
+  },
+  {
+    "id": "TRN-103",
+    "title": "Steep Slope & Incline Handling",
+    "category": "Operation",
+    "duration_minutes": 8,
+    "icon": "TrendingUp",
+    "description": "Best practices for operating excavators and loaders on 10°-15° inclines while managing hydraulic oil temperatures and center-of-gravity stability.",
+    "trigger_reason": "Precautionary module for upcoming 14° excavation zone.",
+    "key_takeaways": [
+      "Keep heavy loads low to the terrain when climbing or descending slopes.",
+      "Never turn across slopes steeper than 10 degrees.",
+      "Monitor hydraulic oil temp under high incline relief valve pressures."
+    ],
+    "quiz": {
+      "question": "Why does operating on a 12° slope increase machine fuel consumption even with standard digging cycles?",
+      "options": [
+        "The operator is pressing the pedal too hard.",
+        "Hydraulic pumps experience continuous backpressure and slew motors work against gravity slope resistance.",
+        "Fuel evaporates faster at higher elevation.",
+        "Tracks slip 100% of the time on slopes."
+      ],
+      "correct_index": 1,
+      "explanation": "Gravity resistance against machine weight and hydraulic slew motors creates unavoidable continuous hydraulic load on steep inclines."
+    }
+  }
+]

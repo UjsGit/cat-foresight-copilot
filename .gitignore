@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+foresight.db
+
+# Node / Frontend
+node_modules/
+dist/
+.dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ML & Models
+*.joblib
+*.pt
+yolov8n.pt
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

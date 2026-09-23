@@ -7,6 +7,9 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+<img width="1918" height="893" alt="image" src="https://github.com/user-attachments/assets/e05eef32-7a64-4f58-83ff-ac4c2b1326d2" />
+
+
 ---
 
 ## 🏗️ 1. Product Overview
@@ -154,6 +157,31 @@ npm run dev
 | `POST` | `/api/demo/control` | Control 6-stage demo player |
 
 ---
+
+## Screenshots 
+
+1. Daily Task Dashboard view scheduled tasks for the day
+<img width="1918" height="888" alt="image" src="https://github.com/user-attachments/assets/48fd9028-657f-4212-ba02-3ad20bd2c251" />
+
+2. Real-Time Safety Features
+• Seatbelt compliance
+• Proximity hazards
+• Incident logging
+(Working conditions considered)
+<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/318745a1-732c-420c-bfd2-98d95490502f" />
+
+3. Operator Training Hub
+e-learning, simulation, or micro-modules
+<img width="1908" height="830" alt="image" src="https://github.com/user-attachments/assets/58da4ad3-510b-4474-ab27-88151a39602f" />
+
+4. Identify Unusual Behavior
+Excessive idling, unsafe patterns, fuel spikes
+<img width="1916" height="933" alt="image" src="https://github.com/user-attachments/assets/2680eef0-edf3-4f89-babb-1adc64dca817" />
+
+5. Task Time Estimation (Adaptive ETA)
+Predict time based on past data & weather
+<img width="1915" height="949" alt="image" src="https://github.com/user-attachments/assets/290b2194-0034-4a2a-8265-f9c70fdd76b7" />
+
 
 ## 🔒 Safety & Prototype Notice
 *CAT ForeSight Copilot is a prototype decision-support software intended solely for operator guidance and training. It does not replace physical machine safety interlocks, visual mirrors, or certified spotter protocols.*
